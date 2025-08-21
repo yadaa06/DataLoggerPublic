@@ -3,6 +3,9 @@
 ## Overview
 Custom Datalogger is an ESP32-based embedded system that uses a set of modular, custom drivers to read and display temperature and humidity data from a DHT11 sensor. Readings are displayed on both a web interface and an LCD screen with multiple display modes. The system includes IR and button controls, audio feedback, Wi-Fi connectivity, and status LEDs to give users real-time system feedback.
 
+## Video Link
+https://drive.google.com/file/d/19Rw-A7qumCGQ2ViV61Q0oNuwAsNHM0hP/view?usp=sharing
+
 ## Features
 - **Sensor Data Collection:** Temperature and humidity readings using a DHT11 sensor  
 - **LCD Display Modes:** Switch between temperature, humidity, and time since last read  
